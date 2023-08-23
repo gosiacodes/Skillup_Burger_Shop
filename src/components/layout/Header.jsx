@@ -24,4 +24,5 @@ const Header = ({ isAuthenticated = false }) => {
     </nav>
   );
 };
+
 export default Header;
